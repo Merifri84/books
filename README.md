@@ -2,6 +2,16 @@
 
 After importing project, please import necessary libraries
 
-For creating DB, please run - creating_and_filling_db 
+```bash 
+pip install -r requirements.txt
+```
 
-For running tests, please run - test.py
+For creating DB, please run:
+```bash 
+python3 creating_and_filling_db.py
+```
+
+For running tests, please run:
+```bash 
+python3 test.py
+```
