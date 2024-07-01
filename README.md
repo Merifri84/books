@@ -13,5 +13,5 @@ python3 creating_and_filling_db.py
 
 For running tests, please run:
 ```bash 
-python3 test.py
+pytest test.py
 ```
